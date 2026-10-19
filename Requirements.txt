@@ -1,0 +1,7 @@
+requests
+pandas
+pymongo[srv]
+sqlalchemy
+psycopg2-binary
+python-dotenv
+truststore
