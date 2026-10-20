@@ -4,7 +4,7 @@ Pipeline de dados que extrai a **taxa de desocupação** de Pernambuco, por sexo
 
 Projeto da disciplina **Engenharia de Dados** (CESAR School, 2026.2), construído a partir do material do professor Marco Mialaret.
 
-**Autor:** SEU NOME
+**Autor:** JOSÉ ROBERTO
 
 ## Arquitetura
 
